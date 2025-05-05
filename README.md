@@ -1,4 +1,4 @@
-# Welcome to Mobile Movies app 👋
+# Welcome to Mobile Real Estate app 👋
 
 This is a pet project created with [Expo](https://expo.dev).
 
